@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:17:14+00:00",
+  "generated_at": "2026-10-12T13:10:43+00:00",
   "source": "TMDB",
   "count": 20,
   "movies": [
@@ -46,7 +46,7 @@
     },
     {
       "id": "tmdb-687163",
-      "title": "Der Astronaut – Project Hail Mary",
+      "title": "Der Astronaut - Project Hail Mary",
       "year": 2026,
       "genres": [
         "Sci-Fi",
@@ -56,6 +56,31 @@
       "description": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
       "kind": "Geheimtipp",
       "tmdb_id": 687163
+    },
+    {
+      "id": "tmdb-389",
+      "title": "Die zwölf Geschworenen",
+      "year": 1957,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.6,
+      "description": "Zwölf Geschworene verhandeln im Juryraum in brütender Hitze über das Schicksal eines Jungen, der angeklagt ist, seinen Vater getötet zu haben. Als das Urteil \"Schuldig\" beinahe feststeht, formuliert der Geschworene Nr. 8 seine Zweifel. Gegen den teils erbitterten Widerstand der Mehrheit entwickelt er nach und nach mit ruhiger Logik seine Argumente. Der Kampf der Meinungen setzt unerwartete Vorurteile und Charakterzüge der zwölf Männer frei, deren Gewissensprüfungen für den Angeklagten ausfallen.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 389
+    },
+    {
+      "id": "tmdb-240",
+      "title": "Der Pate - Teil II",
+      "year": 1974,
+      "genres": [
+        "Drama",
+        "Krimi"
+      ],
+      "rating": 8.6,
+      "description": "Michael Corleone ist jetzt der Pate seiner Familie und führt diese Aufgabe mit der nötigen Gnadenlosigkeit aus. Als er in Las Vegas und auf Kuba expandieren will, weil ihm die alten Geschäftsideen nichts mehr einbringen, treten Schwierigkeiten auf. Um diese zu klären, veranlaßt Michael eine große Säuberungsaktion, die auch vor den Familienmitgliedern nicht halt macht.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 240
     },
     {
       "id": "tmdb-1560520",
@@ -71,19 +96,6 @@
       "description": "Der übernatürlich starke und hochintelligente Superschurke Bane (Stimme im Original: Michael Mando) will dafür sorgen, dass Batman (Anson Mount) in Gotham City nie wieder für Recht und Ordnung sorgen kann. Um den Dunklen Ritter zu schwächen, befreit er dessen gefährlichste Gegner wie Joker, Scarecrow, Mad Hatter und Poison Ivy aus dem Hochsicherheitsgefängnis Arkham Asylum. Bei seinen Bemühungen, die wahnsinnigen Kriminellen wiedereinzufangen, stößt Batman an seine physischen und psychischen Grenzen – exakt so, wie von Bane beabsichtigt, der zwischenzeitlich Batmans wahre Identität als Millionär Bruce Wayne enttarnt hat und weiß, wo er seinen Gegner finden kann.",
       "kind": "Geheimtipp",
       "tmdb_id": 1560520
-    },
-    {
-      "id": "tmdb-240",
-      "title": "Der Pate - Teil II",
-      "year": 1974,
-      "genres": [
-        "Drama",
-        "Krimi"
-      ],
-      "rating": 8.6,
-      "description": "Michael Corleone ist jetzt der Pate seiner Familie und führt diese Aufgabe mit der nötigen Gnadenlosigkeit aus. Als er in Las Vegas und auf Kuba expandieren will, weil ihm die alten Geschäftsideen nichts mehr einbringen, treten Schwierigkeiten auf. Um diese zu klären, veranlaßt Michael eine große Säuberungsaktion, die auch vor den Familienmitgliedern nicht halt macht.",
-      "kind": "Geheimtipp",
-      "tmdb_id": 240
     },
     {
       "id": "tmdb-936075",
@@ -128,34 +140,6 @@
       "tmdb_id": 1007757
     },
     {
-      "id": "tmdb-497",
-      "title": "The Green Mile",
-      "year": 1999,
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Krimi"
-      ],
-      "rating": 8.5,
-      "description": "Paul Edgecomb und seine Kollegen sind Wärter im Todestrakt eines Gefängnisses in den 30ern. Paul versieht seinen Job zwar immer noch mit der größtmöglichen Menschlichkeit, doch er wird zunehmend zynischer, da er ständig Menschen sterben sieht. Außerdem ist er krank. Da kommt ein neuer Delinquent in den Trakt: John Coffey, ein farbiger Riese von friedlichster Bauart, der im Dunkeln Angst hat. Wie sich herausstellt, hat Coffey heilende Fähigkeiten, die auch Paul kennenlernt. Zunehmend gerät er in Zweifel, ob dieser Gigant sterben soll, vor allem da er die Morde, wegen der er verurteilt ist, nicht begangen zu haben scheint. Doch der Stuhl wartet und Coffeys Gabe droht für immer zu verschwinden ...",
-      "kind": "Geheimtipp",
-      "tmdb_id": 497
-    },
-    {
-      "id": "tmdb-122",
-      "title": "Der Herr der Ringe - Die Rückkehr des Königs",
-      "year": 2003,
-      "genres": [
-        "Abenteuer",
-        "Fantasy",
-        "Action"
-      ],
-      "rating": 8.5,
-      "description": "Saurons Heer will Minas Tirith angreifen, die in Felsen errichtete Hauptstadt von Gondor. Angesichts der Bedrohlichkeit des feindlichen Heeres wiegt es umso schwerer, dass Gondors König fehlt und nur der schwächliche Truchsess Denethor über das einst mächtige Königreich wacht. Wird Aragorn die Kraft aufbringen, jene Aufgabe zu übernehmen, für die sein Schicksal ihn bestimmt hat? Während Gandalf verzweifelt versucht, die mutlosen Kämpfer von Gondor zu motivieren, sammelt Théoden die Krieger von Rohan, um am Kampf teilzunehmen. Aber obwohl sie tapfer und leidenschaftlich Widerstand leisten, haben die Streitkräfte der Menschen dem überwältigenden Ansturm der feindlichen Legionen gegen das Königreich kaum etwas entgegenzusetzen. Jeder Sieg fordert große Opfer. Trotz der starken Verluste stellen sich die Gefährten der größten Schlacht ihres Lebens - vereint durch ein einziges Ziel: Sauron muss so lange abgelenkt werden, bis Frodo den Ring vernichtet hat...",
-      "kind": "Geheimtipp",
-      "tmdb_id": 122
-    },
-    {
       "id": "tmdb-155",
       "title": "The Dark Knight",
       "year": 2008,
@@ -170,6 +154,20 @@
       "tmdb_id": 155
     },
     {
+      "id": "tmdb-497",
+      "title": "The Green Mile",
+      "year": 1999,
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Krimi"
+      ],
+      "rating": 8.5,
+      "description": "Paul Edgecomb und seine Kollegen sind Wärter im Todestrakt eines Gefängnisses in den 30ern. Paul versieht seinen Job zwar immer noch mit der größtmöglichen Menschlichkeit, doch er wird zunehmend zynischer, da er ständig Menschen sterben sieht. Außerdem ist er krank. Da kommt ein neuer Delinquent in den Trakt: John Coffey, ein farbiger Riese von friedlichster Bauart, der im Dunkeln Angst hat. Wie sich herausstellt, hat Coffey heilende Fähigkeiten, die auch Paul kennenlernt. Zunehmend gerät er in Zweifel, ob dieser Gigant sterben soll, vor allem da er die Morde, wegen der er verurteilt ist, nicht begangen zu haben scheint. Doch der Stuhl wartet und Coffeys Gabe droht für immer zu verschwinden ...",
+      "kind": "Geheimtipp",
+      "tmdb_id": 497
+    },
+    {
       "id": "tmdb-969681",
       "title": "Spider-Man: Brand New Day",
       "year": 2026,
@@ -178,7 +176,7 @@
         "Action",
         "Abenteuer"
       ],
-      "rating": 7.9,
+      "rating": 8.4,
       "description": "Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
       "kind": "Blockbuster / Trend",
       "tmdb_id": 969681
@@ -196,6 +194,19 @@
       "description": "Für Kurierfahrer Bryan beginnt der Tag mit einem Routineauftrag: Er soll ein biomedizinisches Paket an seinen Bestimmungsort bringen. Doch schon kurz nach der Übernahme der Lieferung gerät der Einsatz außer Kontrolle. Aus der vermeintlich gewöhnlichen Fahrt entwickelt sich innerhalb weniger Stunden ein Albtraum, aus dem es kein Entkommen zu geben scheint. Mit jeder Station nehmen die Ereignisse eine bedrohlichere Wendung, während Bryan immer tiefer in eine Situation hineingezogen wird, deren Ausmaß er zunächst nicht begreift. Die geheimnisvolle Fracht löst eine Kette unvorhersehbarer Geschehnisse aus und macht die Nacht zu einem erbitterten Kampf ums Überleben. Je weiter der Transport voranschreitet, desto mehr verschwimmen die Grenzen zwischen Realität und Horror.",
       "kind": "Blockbuster / Trend",
       "tmdb_id": 1423191
+    },
+    {
+      "id": "tmdb-1291595",
+      "title": "Insidious: Out of the Further",
+      "year": 2026,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 7.7,
+      "description": "Eine junge Mutter zieht ihre Tochter in dem Haus groß, in dem sie selbst aufgewachsen ist. Dort entdeckt sie, dass sie das Ewigreich betreten kann – die geheimnisvolle Welt der verlorenen Seelen aus dem Insidious-Universum. Als eine böse Macht Jagd auf sie macht, entdeckt sie eine besondere Fähigkeit: Sie kann nicht nur ins Ewigreich reisen, sondern auch dessen Dämonen in die reale Welt zurückbringen. Schon bald erkennen die dunklen Wesen ihre Macht und machen die Welt der Lebenden zu ihrem Spielplatz.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1291595
     },
     {
       "id": "tmdb-1368337",
@@ -240,20 +251,6 @@
       "tmdb_id": 1101383
     },
     {
-      "id": "tmdb-1375646",
-      "title": "Colony",
-      "year": 2026,
-      "genres": [
-        "Horror",
-        "Action",
-        "Sci-Fi"
-      ],
-      "rating": 8.1,
-      "description": "Die Biotechnologie-Professorin Se-jeong nimmt an einer Konferenz teil, die ins Chaos stürzt, als ein schnell mutierendes Virus freigesetzt wird. Infizierte verwandeln sich, die Behörden riegeln das Gebäude ab, die Überlebenden sind einer wachsenden Bedrohung ausgeliefert.",
-      "kind": "Blockbuster / Trend",
-      "tmdb_id": 1375646
-    },
-    {
       "id": "tmdb-1084244",
       "title": "Toy Story 5",
       "year": 2026,
@@ -264,22 +261,22 @@
         "Abenteuer"
       ],
       "rating": 8.3,
-      "description": "In Toy Story 5 von Disney•Pixar sind die Kult-Spielzeuge zurück – und diesmal trifft Spielzeug auf Technik. Woody, Buzz Lightyear, Jessie und der Rest der Bande stehen vor einer ganz neuen Herausforderung, als sie auf Lilypad treffen, ein funkelnagelneues Tablet, das sehr eigenwillige Vorstellungen davon hat, was für ihr Kind Bonnie am besten ist. Wird das Spielen jemals wieder so sein wie zuvor?",
+      "description": "Die Kult-Spielzeuge sind zurück – und diesmal trifft Spielzeug auf Technik. Woody, Buzz Lightyear, Jessie und der Rest der Bande stehen vor einer ganz neuen Herausforderung, als sie auf Lilypad treffen, ein funkelnagelneues Tablet, das sehr eigenwillige Vorstellungen davon hat, was für ihr Kind Bonnie am besten ist. Wird das Spielen jemals wieder so sein wie zuvor?",
       "kind": "Blockbuster / Trend",
       "tmdb_id": 1084244
     },
     {
-      "id": "tmdb-1288445",
-      "title": "Mutiny",
+      "id": "tmdb-1339713",
+      "title": "Obsession – Du sollst mich lieben",
       "year": 2026,
       "genres": [
-        "Action",
+        "Horror",
         "Thriller"
       ],
-      "rating": 7.5,
-      "description": "Special-Forces-Soldat Cole Reed arbeitet inzwischen für den milliardenschweren Industriellen Taran. Als sein Auftraggeber direkt vor seinen Augen einem Mordanschlag zum Opfer fällt, gerät Cole selbst unter Verdacht und soll für das Verbrechen verantwortlich gemacht werden. Um seinen Namen reinzuwaschen und die Hintermänner zu finden, nimmt er die Verfolgung der Täter auf. Seine Spur führt ihn an Bord eines Frachtschiffs, wo er den Verantwortlichen immer näherkommt. Dort beginnt Cole einen kompromisslosen Ein-Mann-Feldzug gegen seine Gegner und stößt dabei auf Hinweise, die weit über den Mord an Taran hinausreichen. Schon bald wird deutlich, dass hinter den Ereignissen eine internationale Verschwörung steckt. Während sich die Lage auf hoher See immer weiter zuspitzt, muss Cole nicht nur gegen zahlreiche Gegner bestehen, sondern auch die Wahrheit ans Licht bringen, bevor die Drahtzieher ihre Pläne verwirklichen können.",
+      "rating": 8.2,
+      "description": "Als der hoffnungslose Romantiker Bear einen magischen Gegenstand nutzt, damit sein Crush endlich Gefühle für ihn entwickelt, muss er feststellen, dass manche Wünsche einen finsteren, unheimlichen Tribut fordern.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 1288445
+      "tmdb_id": 1339713
     }
   ]
 }
