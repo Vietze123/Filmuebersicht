@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T13:10:43+00:00",
+  "generated_at": "2026-10-19T10:47:15+00:00",
   "source": "TMDB",
   "count": 20,
   "movies": [
@@ -30,6 +30,19 @@
       "tmdb_id": 238
     },
     {
+      "id": "tmdb-687163",
+      "title": "Der Astronaut - Project Hail Mary",
+      "year": 2026,
+      "genres": [
+        "Sci-Fi",
+        "Abenteuer"
+      ],
+      "rating": 8.6,
+      "description": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 687163
+    },
+    {
       "id": "tmdb-980431",
       "title": "Avatar Aang: Der Herr der Elemente",
       "year": 2026,
@@ -45,42 +58,18 @@
       "tmdb_id": 980431
     },
     {
-      "id": "tmdb-687163",
-      "title": "Der Astronaut - Project Hail Mary",
-      "year": 2026,
-      "genres": [
-        "Sci-Fi",
-        "Abenteuer"
-      ],
-      "rating": 8.6,
-      "description": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
-      "kind": "Geheimtipp",
-      "tmdb_id": 687163
-    },
-    {
-      "id": "tmdb-389",
-      "title": "Die zwölf Geschworenen",
-      "year": 1957,
-      "genres": [
-        "Drama"
-      ],
-      "rating": 8.6,
-      "description": "Zwölf Geschworene verhandeln im Juryraum in brütender Hitze über das Schicksal eines Jungen, der angeklagt ist, seinen Vater getötet zu haben. Als das Urteil \"Schuldig\" beinahe feststeht, formuliert der Geschworene Nr. 8 seine Zweifel. Gegen den teils erbitterten Widerstand der Mehrheit entwickelt er nach und nach mit ruhiger Logik seine Argumente. Der Kampf der Meinungen setzt unerwartete Vorurteile und Charakterzüge der zwölf Männer frei, deren Gewissensprüfungen für den Angeklagten ausfallen.",
-      "kind": "Geheimtipp",
-      "tmdb_id": 389
-    },
-    {
-      "id": "tmdb-240",
-      "title": "Der Pate - Teil II",
-      "year": 1974,
+      "id": "tmdb-424",
+      "title": "Schindlers Liste",
+      "year": 1993,
       "genres": [
         "Drama",
-        "Krimi"
+        "Historie",
+        "Krieg"
       ],
       "rating": 8.6,
-      "description": "Michael Corleone ist jetzt der Pate seiner Familie und führt diese Aufgabe mit der nötigen Gnadenlosigkeit aus. Als er in Las Vegas und auf Kuba expandieren will, weil ihm die alten Geschäftsideen nichts mehr einbringen, treten Schwierigkeiten auf. Um diese zu klären, veranlaßt Michael eine große Säuberungsaktion, die auch vor den Familienmitgliedern nicht halt macht.",
+      "description": "Von einer wahren Begebenheit inspiriert, erzählt Schindlers Liste die Geschichte des Industriellen Oskar Schindler, der während des Zweiten Weltkriegs versucht, sich in Krakau eine Existenz aufzubauen. Aus finanziellen Gründen beschäftigt er nur Juden und leiht sich Geld von ihnen um eine Emaillefabrik zu gründen, die ihm letztlich großen Reichtum beschert. Als die Brutalität des Holocaust Krakau erreicht, riskiert er nicht nur sein Vermögen, sondern auch sein Leben um seine Arbeiter vor der Deportation zu bewahren.",
       "kind": "Geheimtipp",
-      "tmdb_id": 240
+      "tmdb_id": 424
     },
     {
       "id": "tmdb-1560520",
@@ -109,6 +98,20 @@
       "description": "Der junge Michael Jackson wird als achtes von zehn Kindern unter der strengen Führung seines Vaters Joe früh für eine Musikkarriere gedrillt wird. Mit der Familienband Jackson Five feiert er erste Erfolge, im Alter von 13 Jahren startet er bereits die Solokarriere. Auch im Erwachsenenalter ist sein Leben von der Musik dominiert. Ende der 1970er-Jahre lernt er bei Filmarbeiten Diana Ross und den Produzenten Quincy Jones kennen, was seine musikalische Ausrichtung grundlegend verändert. Das von Jones produzierte Album \"Off the Wall\" (1979) wird ein großer Erfolg, der 1982 durch die bahnbrechende und meistverkaufte Platte \"Thriller\" noch übertroffen wird. Parallel zu diesem Aufstieg kommt es zum Bruch mit seinem Vater Joe, den Jackson als Manager entlässt und durch den Anwalt John Branca ersetzt.",
       "kind": "Geheimtipp",
       "tmdb_id": 936075
+    },
+    {
+      "id": "tmdb-155",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Krimi"
+      ],
+      "rating": 8.5,
+      "description": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 155
     },
     {
       "id": "tmdb-129",
@@ -140,20 +143,6 @@
       "tmdb_id": 1007757
     },
     {
-      "id": "tmdb-155",
-      "title": "The Dark Knight",
-      "year": 2008,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Krimi"
-      ],
-      "rating": 8.5,
-      "description": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
-      "kind": "Geheimtipp",
-      "tmdb_id": 155
-    },
-    {
       "id": "tmdb-497",
       "title": "The Green Mile",
       "year": 1999,
@@ -168,6 +157,20 @@
       "tmdb_id": 497
     },
     {
+      "id": "tmdb-372058",
+      "title": "Your Name. - Gestern, heute und für immer",
+      "year": 2016,
+      "genres": [
+        "Animation",
+        "Romantik",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "description": "Mitsuha lebt gemeinsam mit ihrer kleinen Schwester Yotsuha bei ihrer Großmutter in einer ländlichen Kleinstadt Japans. Insgeheim beklagt sie ihr abgeschiedenes Dasein in der Provinz und wünscht sich ein aufregendes Leben in der Großstadt. Taki würde sich freuen, so beschaulich aufzuwachsen, denn er wohnt in der Millionen-Metropole Tokio, verbringt viel Zeit mit seinen Freunden und jobbt neben der Schule in einem italienischen Restaurant. Eines Tages scheint Mitsuha einen Traum zu haben, in dem sie sich als Junge in Tokio wiederfindet. Parallel macht Taki eine ähnliche Erfahrung: Er findet sich als Mädchen in einer Kleinstadt in den Bergen wieder, wo er noch nie zuvor war. Doch wie kommt es zu dieser schicksalhaften Verstrickung und welches Geheimnis verbirgt sich wirklich hinter den Träumen der beiden Teenager?",
+      "kind": "Geheimtipp",
+      "tmdb_id": 372058
+    },
+    {
       "id": "tmdb-969681",
       "title": "Spider-Man: Brand New Day",
       "year": 2026,
@@ -176,24 +179,10 @@
         "Action",
         "Abenteuer"
       ],
-      "rating": 8.4,
+      "rating": 8.5,
       "description": "Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
       "kind": "Blockbuster / Trend",
       "tmdb_id": 969681
-    },
-    {
-      "id": "tmdb-1423191",
-      "title": "Resident Evil",
-      "year": 2026,
-      "genres": [
-        "Horror",
-        "Sci-Fi",
-        "Abenteuer"
-      ],
-      "rating": 7.3,
-      "description": "Für Kurierfahrer Bryan beginnt der Tag mit einem Routineauftrag: Er soll ein biomedizinisches Paket an seinen Bestimmungsort bringen. Doch schon kurz nach der Übernahme der Lieferung gerät der Einsatz außer Kontrolle. Aus der vermeintlich gewöhnlichen Fahrt entwickelt sich innerhalb weniger Stunden ein Albtraum, aus dem es kein Entkommen zu geben scheint. Mit jeder Station nehmen die Ereignisse eine bedrohlichere Wendung, während Bryan immer tiefer in eine Situation hineingezogen wird, deren Ausmaß er zunächst nicht begreift. Die geheimnisvolle Fracht löst eine Kette unvorhersehbarer Geschehnisse aus und macht die Nacht zu einem erbitterten Kampf ums Überleben. Je weiter der Transport voranschreitet, desto mehr verschwimmen die Grenzen zwischen Realität und Horror.",
-      "kind": "Blockbuster / Trend",
-      "tmdb_id": 1423191
     },
     {
       "id": "tmdb-1291595",
@@ -223,32 +212,43 @@
       "tmdb_id": 1368337
     },
     {
-      "id": "tmdb-1204680",
-      "title": "Coyote vs. ACME",
+      "id": "tmdb-1101412",
+      "title": "Fall 2: Deadpoint",
       "year": 2026,
       "genres": [
-        "Komödie",
-        "Abenteuer",
-        "Familie"
-      ],
-      "rating": 7.5,
-      "description": "Nach all den Jahren vergeblicher Liebesmüh hat Willi Kojote es satt, dass bisher jedes einzelne Produkt der ACME Corporation eine erfolgreiche Jagd auf den Road Runner vereitelt hat. Kojote beschließt deshalb, das Unternehmen für seine mangelhafte Ware in die Verantwortung zu nehmen, und engagiert den ebenso glück- wie mittellosen Anwalt Kevin Avery, um gegen ACME vor Gericht zu ziehen. Als der herausfindet, dass die Rechtsabteilung des Konzerns von Buddy Crane geleitet wird, dem selbstgefälligen Chef seiner ehemaligen Kanzlei, gibt er alles, um den Prozess zu gewinnen.",
-      "kind": "Blockbuster / Trend",
-      "tmdb_id": 1204680
-    },
-    {
-      "id": "tmdb-1101383",
-      "title": "The End of Oak Street",
-      "year": 2026,
-      "genres": [
-        "Sci-Fi",
-        "Mystery",
         "Thriller"
       ],
-      "rating": 7.1,
-      "description": "Ein unerklärliches kosmisches Ereignis reißt die Oak Street aus ihrem Vorstadtidyll heraus und befördert die gesamte Nachbarschaft an einen unbekannten Ort. Die Mitglieder der Familie Platt müssen in dieser für sie völlig fremden Umgebung schnell feststellen, dass sie nur dann überleben können, wenn sie eng zusammenstehen.",
+      "rating": 7.3,
+      "description": "Während eines gefährlichen Aufstiegs am thailändischen Mount Kwan sitzen zwei Kletterer in schwindelerregender Höhe fest; dort machen die enorme Tiefe, die völlige Ausgesetztheit und die schier aussichtslosen Umstände jeden Augenblick zu einem Kampf ums Überleben.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 1101383
+      "tmdb_id": 1101412
+    },
+    {
+      "id": "tmdb-1377237",
+      "title": "Runner",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Komödie"
+      ],
+      "rating": 8.3,
+      "description": "Der ehemalige Elitesoldat Hank Malone verdient sein Geld als Kurier für besonders heikle Frachten und macht dabei um Ärger stets lieber einen großen Bogen – bis ihn eines Tages ein besonders lukrativer Auftrag mitten in eine mörderische Verfolgungsjagd katapultiert. Gemeinsam mit dem medizinischen Kurier Ben soll Hank ein überlebenswichtiges Organ für ein todkrankes, siebenjähriges Mädchen transportieren. Doch ein skrupelloser Verbrecherboss hat es ebenfalls auf die wertvolle Fracht abgesehen. Die Mission eskaliert, als die brutale Killertruppe vor nichts zurückschreckt, das Organ für den Schwarzmarkt in ihre Gewalt zu bringen. Hank und Ben geraten plötzlich in einen gnadenlosen Wettlauf gegen die Zeit. Während die Straßen entlang der australischen Gold Coast immer mehr zum Schlachtfeld werden, muss sich Hank auch noch den Dämonen seiner eigenen Vergangenheit stellen.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1377237
+    },
+    {
+      "id": "tmdb-1423191",
+      "title": "Resident Evil",
+      "year": 2026,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Abenteuer"
+      ],
+      "rating": 7.3,
+      "description": "Für Kurierfahrer Bryan beginnt der Tag mit einem Routineauftrag: Er soll ein biomedizinisches Paket an seinen Bestimmungsort bringen. Doch schon kurz nach der Übernahme der Lieferung gerät der Einsatz außer Kontrolle. Aus der vermeintlich gewöhnlichen Fahrt entwickelt sich innerhalb weniger Stunden ein Albtraum, aus dem es kein Entkommen zu geben scheint. Mit jeder Station nehmen die Ereignisse eine bedrohlichere Wendung, während Bryan immer tiefer in eine Situation hineingezogen wird, deren Ausmaß er zunächst nicht begreift. Die geheimnisvolle Fracht löst eine Kette unvorhersehbarer Geschehnisse aus und macht die Nacht zu einem erbitterten Kampf ums Überleben. Je weiter der Transport voranschreitet, desto mehr verschwimmen die Grenzen zwischen Realität und Horror.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1423191
     },
     {
       "id": "tmdb-1084244",
@@ -266,17 +266,18 @@
       "tmdb_id": 1084244
     },
     {
-      "id": "tmdb-1339713",
-      "title": "Obsession – Du sollst mich lieben",
+      "id": "tmdb-1101383",
+      "title": "The End of Oak Street",
       "year": 2026,
       "genres": [
-        "Horror",
+        "Sci-Fi",
+        "Mystery",
         "Thriller"
       ],
-      "rating": 8.2,
-      "description": "Als der hoffnungslose Romantiker Bear einen magischen Gegenstand nutzt, damit sein Crush endlich Gefühle für ihn entwickelt, muss er feststellen, dass manche Wünsche einen finsteren, unheimlichen Tribut fordern.",
+      "rating": 7.1,
+      "description": "Ein unerklärliches kosmisches Ereignis reißt die Oak Street aus ihrem Vorstadtidyll heraus und befördert die gesamte Nachbarschaft an einen unbekannten Ort. Die Mitglieder der Familie Platt müssen in dieser für sie völlig fremden Umgebung schnell feststellen, dass sie nur dann überleben können, wenn sie eng zusammenstehen.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 1339713
+      "tmdb_id": 1101383
     }
   ]
 }
