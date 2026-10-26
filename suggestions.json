@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:47:15+00:00",
+  "generated_at": "2026-10-26T11:07:39+00:00",
   "source": "TMDB",
   "count": 20,
   "movies": [
@@ -30,19 +30,6 @@
       "tmdb_id": 238
     },
     {
-      "id": "tmdb-687163",
-      "title": "Der Astronaut - Project Hail Mary",
-      "year": 2026,
-      "genres": [
-        "Sci-Fi",
-        "Abenteuer"
-      ],
-      "rating": 8.6,
-      "description": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
-      "kind": "Geheimtipp",
-      "tmdb_id": 687163
-    },
-    {
       "id": "tmdb-980431",
       "title": "Avatar Aang: Der Herr der Elemente",
       "year": 2026,
@@ -52,10 +39,23 @@
         "Fantasy",
         "Action"
       ],
-      "rating": 9.1,
+      "rating": 9.0,
       "description": "Der Avatar Aang, der letzte Luftbändiger der Welt, erfährt von einer uralten Kraft, die seine Kultur vor dem Aussterben bewahren könnte. Gemeinsam mit seinen Freunden begibt er sich auf eine weltweite Suche, um diese Kraft zu finden, bevor sie in die falschen Hände gerät und den mühsam erkämpften Frieden gefährdet.",
       "kind": "Geheimtipp",
       "tmdb_id": 980431
+    },
+    {
+      "id": "tmdb-240",
+      "title": "Der Pate - Teil II",
+      "year": 1974,
+      "genres": [
+        "Drama",
+        "Krimi"
+      ],
+      "rating": 8.6,
+      "description": "Michael Corleone ist jetzt der Pate seiner Familie und führt diese Aufgabe mit der nötigen Gnadenlosigkeit aus. Als er in Las Vegas und auf Kuba expandieren will, weil ihm die alten Geschäftsideen nichts mehr einbringen, treten Schwierigkeiten auf. Um diese zu klären, veranlaßt Michael eine große Säuberungsaktion, die auch vor den Familienmitgliedern nicht halt macht.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 240
     },
     {
       "id": "tmdb-424",
@@ -70,21 +70,6 @@
       "description": "Von einer wahren Begebenheit inspiriert, erzählt Schindlers Liste die Geschichte des Industriellen Oskar Schindler, der während des Zweiten Weltkriegs versucht, sich in Krakau eine Existenz aufzubauen. Aus finanziellen Gründen beschäftigt er nur Juden und leiht sich Geld von ihnen um eine Emaillefabrik zu gründen, die ihm letztlich großen Reichtum beschert. Als die Brutalität des Holocaust Krakau erreicht, riskiert er nicht nur sein Vermögen, sondern auch sein Leben um seine Arbeiter vor der Deportation zu bewahren.",
       "kind": "Geheimtipp",
       "tmdb_id": 424
-    },
-    {
-      "id": "tmdb-1560520",
-      "title": "Batman: Knightfall Part 1: Knightfall",
-      "year": 2026,
-      "genres": [
-        "Animation",
-        "Action",
-        "Abenteuer",
-        "Drama"
-      ],
-      "rating": 9.1,
-      "description": "Der übernatürlich starke und hochintelligente Superschurke Bane (Stimme im Original: Michael Mando) will dafür sorgen, dass Batman (Anson Mount) in Gotham City nie wieder für Recht und Ordnung sorgen kann. Um den Dunklen Ritter zu schwächen, befreit er dessen gefährlichste Gegner wie Joker, Scarecrow, Mad Hatter und Poison Ivy aus dem Hochsicherheitsgefängnis Arkham Asylum. Bei seinen Bemühungen, die wahnsinnigen Kriminellen wiedereinzufangen, stößt Batman an seine physischen und psychischen Grenzen – exakt so, wie von Bane beabsichtigt, der zwischenzeitlich Batmans wahre Identität als Millionär Bruce Wayne enttarnt hat und weiß, wo er seinen Gegner finden kann.",
-      "kind": "Geheimtipp",
-      "tmdb_id": 1560520
     },
     {
       "id": "tmdb-936075",
@@ -137,7 +122,7 @@
         "Familie",
         "Fantasy"
       ],
-      "rating": 8.9,
+      "rating": 8.8,
       "description": "Ein winziger Waldbewohner und ein majestätischer Vogel tauschen plötzlich die Körper und müssen gemeinsam das wildeste Abenteuer ihres Lebens überstehen.",
       "kind": "Geheimtipp",
       "tmdb_id": 1007757
@@ -155,6 +140,20 @@
       "description": "Paul Edgecomb und seine Kollegen sind Wärter im Todestrakt eines Gefängnisses in den 30ern. Paul versieht seinen Job zwar immer noch mit der größtmöglichen Menschlichkeit, doch er wird zunehmend zynischer, da er ständig Menschen sterben sieht. Außerdem ist er krank. Da kommt ein neuer Delinquent in den Trakt: John Coffey, ein farbiger Riese von friedlichster Bauart, der im Dunkeln Angst hat. Wie sich herausstellt, hat Coffey heilende Fähigkeiten, die auch Paul kennenlernt. Zunehmend gerät er in Zweifel, ob dieser Gigant sterben soll, vor allem da er die Morde, wegen der er verurteilt ist, nicht begangen zu haben scheint. Doch der Stuhl wartet und Coffeys Gabe droht für immer zu verschwinden ...",
       "kind": "Geheimtipp",
       "tmdb_id": 497
+    },
+    {
+      "id": "tmdb-122",
+      "title": "Der Herr der Ringe - Die Rückkehr des Königs",
+      "year": 2003,
+      "genres": [
+        "Abenteuer",
+        "Fantasy",
+        "Action"
+      ],
+      "rating": 8.5,
+      "description": "Saurons Heer will Minas Tirith angreifen, die in Felsen errichtete Hauptstadt von Gondor. Angesichts der Bedrohlichkeit des feindlichen Heeres wiegt es umso schwerer, dass Gondors König fehlt und nur der schwächliche Truchsess Denethor über das einst mächtige Königreich wacht. Wird Aragorn die Kraft aufbringen, jene Aufgabe zu übernehmen, für die sein Schicksal ihn bestimmt hat? Während Gandalf verzweifelt versucht, die mutlosen Kämpfer von Gondor zu motivieren, sammelt Théoden die Krieger von Rohan, um am Kampf teilzunehmen. Aber obwohl sie tapfer und leidenschaftlich Widerstand leisten, haben die Streitkräfte der Menschen dem überwältigenden Ansturm der feindlichen Legionen gegen das Königreich kaum etwas entgegenzusetzen. Jeder Sieg fordert große Opfer. Trotz der starken Verluste stellen sich die Gefährten der größten Schlacht ihres Lebens - vereint durch ein einziges Ziel: Sauron muss so lange abgelenkt werden, bis Frodo den Ring vernichtet hat...",
+      "kind": "Geheimtipp",
+      "tmdb_id": 122
     },
     {
       "id": "tmdb-372058",
@@ -185,17 +184,17 @@
       "tmdb_id": 969681
     },
     {
-      "id": "tmdb-1291595",
-      "title": "Insidious: Out of the Further",
+      "id": "tmdb-687163",
+      "title": "Der Astronaut – Project Hail Mary",
       "year": 2026,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Sci-Fi",
+        "Abenteuer"
       ],
-      "rating": 7.7,
-      "description": "Eine junge Mutter zieht ihre Tochter in dem Haus groß, in dem sie selbst aufgewachsen ist. Dort entdeckt sie, dass sie das Ewigreich betreten kann – die geheimnisvolle Welt der verlorenen Seelen aus dem Insidious-Universum. Als eine böse Macht Jagd auf sie macht, entdeckt sie eine besondere Fähigkeit: Sie kann nicht nur ins Ewigreich reisen, sondern auch dessen Dämonen in die reale Welt zurückbringen. Schon bald erkennen die dunklen Wesen ihre Macht und machen die Welt der Lebenden zu ihrem Spielplatz.",
+      "rating": 8.6,
+      "description": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 1291595
+      "tmdb_id": 687163
     },
     {
       "id": "tmdb-1368337",
@@ -224,17 +223,31 @@
       "tmdb_id": 1101412
     },
     {
-      "id": "tmdb-1377237",
-      "title": "Runner",
+      "id": "tmdb-1291595",
+      "title": "Insidious: Out of the Further",
+      "year": 2026,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 7.7,
+      "description": "Eine junge Mutter zieht ihre Tochter in dem Haus groß, in dem sie selbst aufgewachsen ist. Dort entdeckt sie, dass sie das Ewigreich betreten kann – die geheimnisvolle Welt der verlorenen Seelen aus dem Insidious-Universum. Als eine böse Macht Jagd auf sie macht, entdeckt sie eine besondere Fähigkeit: Sie kann nicht nur ins Ewigreich reisen, sondern auch dessen Dämonen in die reale Welt zurückbringen. Schon bald erkennen die dunklen Wesen ihre Macht und machen die Welt der Lebenden zu ihrem Spielplatz.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1291595
+    },
+    {
+      "id": "tmdb-1148365",
+      "title": "Matchbox: Der Film",
       "year": 2026,
       "genres": [
         "Action",
-        "Komödie"
+        "Komödie",
+        "Abenteuer"
       ],
-      "rating": 8.3,
-      "description": "Der ehemalige Elitesoldat Hank Malone verdient sein Geld als Kurier für besonders heikle Frachten und macht dabei um Ärger stets lieber einen großen Bogen – bis ihn eines Tages ein besonders lukrativer Auftrag mitten in eine mörderische Verfolgungsjagd katapultiert. Gemeinsam mit dem medizinischen Kurier Ben soll Hank ein überlebenswichtiges Organ für ein todkrankes, siebenjähriges Mädchen transportieren. Doch ein skrupelloser Verbrecherboss hat es ebenfalls auf die wertvolle Fracht abgesehen. Die Mission eskaliert, als die brutale Killertruppe vor nichts zurückschreckt, das Organ für den Schwarzmarkt in ihre Gewalt zu bringen. Hank und Ben geraten plötzlich in einen gnadenlosen Wettlauf gegen die Zeit. Während die Straßen entlang der australischen Gold Coast immer mehr zum Schlachtfeld werden, muss sich Hank auch noch den Dämonen seiner eigenen Vergangenheit stellen.",
+      "rating": 7.7,
+      "description": "Als sich eine alte Freundesgruppe wieder trifft, nimmt ihr Wiedersehen eine wilde Wendung, als sie auf eine internationale Verschwörung stoßen – und die Welt retten müssen.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 1377237
+      "tmdb_id": 1148365
     },
     {
       "id": "tmdb-1423191",
@@ -251,33 +264,19 @@
       "tmdb_id": 1423191
     },
     {
-      "id": "tmdb-1084244",
-      "title": "Toy Story 5",
+      "id": "tmdb-1236045",
+      "title": "Animals",
       "year": 2026,
       "genres": [
-        "Animation",
-        "Familie",
-        "Komödie",
-        "Abenteuer"
+        "Thriller",
+        "Drama",
+        "Action",
+        "Krimi"
       ],
-      "rating": 8.3,
-      "description": "Die Kult-Spielzeuge sind zurück – und diesmal trifft Spielzeug auf Technik. Woody, Buzz Lightyear, Jessie und der Rest der Bande stehen vor einer ganz neuen Herausforderung, als sie auf Lilypad treffen, ein funkelnagelneues Tablet, das sehr eigenwillige Vorstellungen davon hat, was für ihr Kind Bonnie am besten ist. Wird das Spielen jemals wieder so sein wie zuvor?",
+      "rating": 7.0,
+      "description": "Als ihr Sohn entführt wird, bemühen sich ein Bürgermeisterkandidat aus L. A. und seine Frau, das Lösegeld aufzutreiben, was sie zu schwierigen Entscheidungen zwingt.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 1084244
-    },
-    {
-      "id": "tmdb-1101383",
-      "title": "The End of Oak Street",
-      "year": 2026,
-      "genres": [
-        "Sci-Fi",
-        "Mystery",
-        "Thriller"
-      ],
-      "rating": 7.1,
-      "description": "Ein unerklärliches kosmisches Ereignis reißt die Oak Street aus ihrem Vorstadtidyll heraus und befördert die gesamte Nachbarschaft an einen unbekannten Ort. Die Mitglieder der Familie Platt müssen in dieser für sie völlig fremden Umgebung schnell feststellen, dass sie nur dann überleben können, wenn sie eng zusammenstehen.",
-      "kind": "Blockbuster / Trend",
-      "tmdb_id": 1101383
+      "tmdb_id": 1236045
     }
   ]
 }
