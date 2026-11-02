@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:07:39+00:00",
+  "generated_at": "2026-11-02T13:30:19+00:00",
   "source": "TMDB",
   "count": 20,
   "movies": [
@@ -28,6 +28,19 @@
       "description": "Don Vito Corleone ist der Kopf einer der einflußreichsten Mafia-Familien New Yorks. Als die anderen Familien der Stadt beschließen, neben Glücksspiel und Schutzgelderpressungen nun auch den Handel mit Drogen als Erwerbsquelle zu nutzen und sich Don Corleone diesem Vorhaben nicht anschließen möchte, wird er zum Ziel eines hinterhältigen Mordanschlags. Nun steht Vitos Sohn Michael in der Verantwortung, in die Fußstapfen seines Vaters zu treten, obwohl er mit den Geschäften der Familie bis dato nichts zu tun haben wollte.",
       "kind": "Geheimtipp",
       "tmdb_id": 238
+    },
+    {
+      "id": "tmdb-687163",
+      "title": "Der Astronaut – Project Hail Mary",
+      "year": 2026,
+      "genres": [
+        "Sci-Fi",
+        "Abenteuer"
+      ],
+      "rating": 8.6,
+      "description": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 687163
     },
     {
       "id": "tmdb-980431",
@@ -85,18 +98,19 @@
       "tmdb_id": 936075
     },
     {
-      "id": "tmdb-155",
-      "title": "The Dark Knight",
-      "year": 2008,
+      "id": "tmdb-1560520",
+      "title": "Batman: Knightfall Part 1: Knightfall",
+      "year": 2026,
       "genres": [
+        "Animation",
         "Action",
-        "Thriller",
-        "Krimi"
+        "Abenteuer",
+        "Drama"
       ],
-      "rating": 8.5,
-      "description": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
+      "rating": 9.1,
+      "description": "Der übernatürlich starke und hochintelligente Superschurke Bane will dafür sorgen, dass Batman in Gotham City nie wieder für Recht und Ordnung sorgen kann. Um den Dunklen Ritter zu schwächen, befreit er dessen gefährlichste Gegner wie Joker, Scarecrow, Mad Hatter und Poison Ivy aus dem Hochsicherheitsgefängnis Arkham Asylum. Bei seinen Bemühungen, die wahnsinnigen Kriminellen wiedereinzufangen, stößt Batman an seine physischen und psychischen Grenzen – exakt so, wie von Bane beabsichtigt, der zwischenzeitlich Batmans wahre Identität als Millionär Bruce Wayne enttarnt hat und weiß, wo er seinen Gegner finden kann.",
       "kind": "Geheimtipp",
-      "tmdb_id": 155
+      "tmdb_id": 1560520
     },
     {
       "id": "tmdb-129",
@@ -156,18 +170,18 @@
       "tmdb_id": 122
     },
     {
-      "id": "tmdb-372058",
-      "title": "Your Name. - Gestern, heute und für immer",
-      "year": 2016,
+      "id": "tmdb-155",
+      "title": "The Dark Knight",
+      "year": 2008,
       "genres": [
-        "Animation",
-        "Romantik",
-        "Drama"
+        "Action",
+        "Thriller",
+        "Krimi"
       ],
       "rating": 8.5,
-      "description": "Mitsuha lebt gemeinsam mit ihrer kleinen Schwester Yotsuha bei ihrer Großmutter in einer ländlichen Kleinstadt Japans. Insgeheim beklagt sie ihr abgeschiedenes Dasein in der Provinz und wünscht sich ein aufregendes Leben in der Großstadt. Taki würde sich freuen, so beschaulich aufzuwachsen, denn er wohnt in der Millionen-Metropole Tokio, verbringt viel Zeit mit seinen Freunden und jobbt neben der Schule in einem italienischen Restaurant. Eines Tages scheint Mitsuha einen Traum zu haben, in dem sie sich als Junge in Tokio wiederfindet. Parallel macht Taki eine ähnliche Erfahrung: Er findet sich als Mädchen in einer Kleinstadt in den Bergen wieder, wo er noch nie zuvor war. Doch wie kommt es zu dieser schicksalhaften Verstrickung und welches Geheimnis verbirgt sich wirklich hinter den Träumen der beiden Teenager?",
-      "kind": "Geheimtipp",
-      "tmdb_id": 372058
+      "description": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 155
     },
     {
       "id": "tmdb-969681",
@@ -184,17 +198,29 @@
       "tmdb_id": 969681
     },
     {
-      "id": "tmdb-687163",
-      "title": "Der Astronaut – Project Hail Mary",
+      "id": "tmdb-1101412",
+      "title": "Fall 2: Deadpoint",
       "year": 2026,
       "genres": [
-        "Sci-Fi",
-        "Abenteuer"
+        "Thriller"
       ],
-      "rating": 8.6,
-      "description": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
+      "rating": 7.3,
+      "description": "Während eines gefährlichen Aufstiegs am thailändischen Mount Kwan sitzen zwei Kletterer in schwindelerregender Höhe fest; dort machen die enorme Tiefe, die völlige Ausgesetztheit und die schier aussichtslosen Umstände jeden Augenblick zu einem Kampf ums Überleben.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 687163
+      "tmdb_id": 1101412
+    },
+    {
+      "id": "tmdb-1283515",
+      "title": "Verity – Dunkle Geheimnisse",
+      "year": 2026,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 6.9,
+      "description": "Die erfolglose Schriftstellerin Lowen Ashleigh zieht auf das abgelegene Anwesen der Crawfords, um dort als Ghostwriterin für Verity Crawford zu arbeiten. Nachdem Lowen auf scheinbar erschreckende autobiografische Aufzeichnungen von Verity stößt, ringt sie mit den verstörenden und verstörenden Geständnissen über Veritys Ehemann Jeremy und findet es schwer, Fiktion von Realität, Manipulation von Anziehung und Gelegenheit von Besessenheit zu unterscheiden.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1283515
     },
     {
       "id": "tmdb-1368337",
@@ -211,16 +237,33 @@
       "tmdb_id": 1368337
     },
     {
-      "id": "tmdb-1101412",
-      "title": "Fall 2: Deadpoint",
+      "id": "tmdb-354912",
+      "title": "Coco - Lebendiger als das Leben!",
+      "year": 2017,
+      "genres": [
+        "Familie",
+        "Animation",
+        "Musik",
+        "Abenteuer"
+      ],
+      "rating": 8.2,
+      "description": "Miguel ist zwölf Jahre alt und ein großer Fan von Musik – aber leider hasst seine Schusterfamilie alles, was mit Tönen und Instrumenten zu tun hat. Miguels Ururgroßvater verließ damals seine Frau und Tochter, um Musiker zu werden, seitdem fühlen sich die Riveras durch Musik verflucht. Doch Familie hin oder her – Miguel will seinem Idol, dem Sänger Ernesto de la Cruz, trotzdem nacheifern. Aus Versehen kommt er dabei ins Reich der Toten und betritt dadurch einen wunderschönen Ort, an dem er die Seelen seiner toten Verwandten trifft. Miguels Ururgroßmutter Imelda ist darunter, und das nette Schwindler-Skelett Hector. Zusammen suchen Skelett und Junge im Totenreich nach de la Cruz, wobei allerdings die Zeit drängt: Zu lange darf Miguel nicht in der Unterwelt bleiben…",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 354912
+    },
+    {
+      "id": "tmdb-1384216",
+      "title": "Das Ende der Sterne",
       "year": 2026,
       "genres": [
-        "Thriller"
+        "Action",
+        "Thriller",
+        "Sci-Fi"
       ],
-      "rating": 7.3,
-      "description": "Während eines gefährlichen Aufstiegs am thailändischen Mount Kwan sitzen zwei Kletterer in schwindelerregender Höhe fest; dort machen die enorme Tiefe, die völlige Ausgesetztheit und die schier aussichtslosen Umstände jeden Augenblick zu einem Kampf ums Überleben.",
+      "rating": 7.2,
+      "description": "Nachdem die Weltbevölkerung von einer Pandemie heimgesucht wurde, lebt ein Mann ein einsames Dasein in einem Flugzeughangar in Colorado, zusammen mit seinem Hund und einem mürrischen Schützen, mit dem er sich angefreundet hat. Als er mit seiner alten Cessna fliegt, empfängt er eine mysteriöse Funkübertragung, die ihn dazu veranlasst, nach der Herkunft des Signals zu suchen.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 1101412
+      "tmdb_id": 1384216
     },
     {
       "id": "tmdb-1291595",
@@ -234,49 +277,6 @@
       "description": "Eine junge Mutter zieht ihre Tochter in dem Haus groß, in dem sie selbst aufgewachsen ist. Dort entdeckt sie, dass sie das Ewigreich betreten kann – die geheimnisvolle Welt der verlorenen Seelen aus dem Insidious-Universum. Als eine böse Macht Jagd auf sie macht, entdeckt sie eine besondere Fähigkeit: Sie kann nicht nur ins Ewigreich reisen, sondern auch dessen Dämonen in die reale Welt zurückbringen. Schon bald erkennen die dunklen Wesen ihre Macht und machen die Welt der Lebenden zu ihrem Spielplatz.",
       "kind": "Blockbuster / Trend",
       "tmdb_id": 1291595
-    },
-    {
-      "id": "tmdb-1148365",
-      "title": "Matchbox: Der Film",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Komödie",
-        "Abenteuer"
-      ],
-      "rating": 7.7,
-      "description": "Als sich eine alte Freundesgruppe wieder trifft, nimmt ihr Wiedersehen eine wilde Wendung, als sie auf eine internationale Verschwörung stoßen – und die Welt retten müssen.",
-      "kind": "Blockbuster / Trend",
-      "tmdb_id": 1148365
-    },
-    {
-      "id": "tmdb-1423191",
-      "title": "Resident Evil",
-      "year": 2026,
-      "genres": [
-        "Horror",
-        "Sci-Fi",
-        "Abenteuer"
-      ],
-      "rating": 7.3,
-      "description": "Für Kurierfahrer Bryan beginnt der Tag mit einem Routineauftrag: Er soll ein biomedizinisches Paket an seinen Bestimmungsort bringen. Doch schon kurz nach der Übernahme der Lieferung gerät der Einsatz außer Kontrolle. Aus der vermeintlich gewöhnlichen Fahrt entwickelt sich innerhalb weniger Stunden ein Albtraum, aus dem es kein Entkommen zu geben scheint. Mit jeder Station nehmen die Ereignisse eine bedrohlichere Wendung, während Bryan immer tiefer in eine Situation hineingezogen wird, deren Ausmaß er zunächst nicht begreift. Die geheimnisvolle Fracht löst eine Kette unvorhersehbarer Geschehnisse aus und macht die Nacht zu einem erbitterten Kampf ums Überleben. Je weiter der Transport voranschreitet, desto mehr verschwimmen die Grenzen zwischen Realität und Horror.",
-      "kind": "Blockbuster / Trend",
-      "tmdb_id": 1423191
-    },
-    {
-      "id": "tmdb-1236045",
-      "title": "Animals",
-      "year": 2026,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Action",
-        "Krimi"
-      ],
-      "rating": 7.0,
-      "description": "Als ihr Sohn entführt wird, bemühen sich ein Bürgermeisterkandidat aus L. A. und seine Frau, das Lösegeld aufzutreiben, was sie zu schwierigen Entscheidungen zwingt.",
-      "kind": "Blockbuster / Trend",
-      "tmdb_id": 1236045
     }
   ]
 }
