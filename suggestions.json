@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T13:54:34+00:00",
+  "generated_at": "2026-11-16T13:39:42+00:00",
   "source": "TMDB",
   "count": 20,
   "movies": [
@@ -30,16 +30,17 @@
       "tmdb_id": 238
     },
     {
-      "id": "tmdb-389",
-      "title": "Die zwölf Geschworenen",
-      "year": 1957,
+      "id": "tmdb-240",
+      "title": "Der Pate - Teil II",
+      "year": 1974,
       "genres": [
-        "Drama"
+        "Drama",
+        "Krimi"
       ],
       "rating": 8.6,
-      "description": "Zwölf Geschworene verhandeln im Juryraum in brütender Hitze über das Schicksal eines Jungen, der angeklagt ist, seinen Vater getötet zu haben. Als das Urteil \"Schuldig\" beinahe feststeht, formuliert der Geschworene Nr. 8 seine Zweifel. Gegen den teils erbitterten Widerstand der Mehrheit entwickelt er nach und nach mit ruhiger Logik seine Argumente. Der Kampf der Meinungen setzt unerwartete Vorurteile und Charakterzüge der zwölf Männer frei, deren Gewissensprüfungen für den Angeklagten ausfallen.",
+      "description": "Michael Corleone ist jetzt der Pate seiner Familie und führt diese Aufgabe mit der nötigen Gnadenlosigkeit aus. Als er in Las Vegas und auf Kuba expandieren will, weil ihm die alten Geschäftsideen nichts mehr einbringen, treten Schwierigkeiten auf. Um diese zu klären, veranlaßt Michael eine große Säuberungsaktion, die auch vor den Familienmitgliedern nicht halt macht.",
       "kind": "Geheimtipp",
-      "tmdb_id": 389
+      "tmdb_id": 240
     },
     {
       "id": "tmdb-424",
@@ -54,19 +55,6 @@
       "description": "Von einer wahren Begebenheit inspiriert, erzählt Schindlers Liste die Geschichte des Industriellen Oskar Schindler, der während des Zweiten Weltkriegs versucht, sich in Krakau eine Existenz aufzubauen. Aus finanziellen Gründen beschäftigt er nur Juden und leiht sich Geld von ihnen um eine Emaillefabrik zu gründen, die ihm letztlich großen Reichtum beschert. Als die Brutalität des Holocaust Krakau erreicht, riskiert er nicht nur sein Vermögen, sondern auch sein Leben um seine Arbeiter vor der Deportation zu bewahren.",
       "kind": "Geheimtipp",
       "tmdb_id": 424
-    },
-    {
-      "id": "tmdb-240",
-      "title": "Der Pate - Teil II",
-      "year": 1974,
-      "genres": [
-        "Drama",
-        "Krimi"
-      ],
-      "rating": 8.6,
-      "description": "Michael Corleone ist jetzt der Pate seiner Familie und führt diese Aufgabe mit der nötigen Gnadenlosigkeit aus. Als er in Las Vegas und auf Kuba expandieren will, weil ihm die alten Geschäftsideen nichts mehr einbringen, treten Schwierigkeiten auf. Um diese zu klären, veranlaßt Michael eine große Säuberungsaktion, die auch vor den Familienmitgliedern nicht halt macht.",
-      "kind": "Geheimtipp",
-      "tmdb_id": 240
     },
     {
       "id": "tmdb-980431",
@@ -126,6 +114,20 @@
       "tmdb_id": 129
     },
     {
+      "id": "tmdb-155",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Krimi"
+      ],
+      "rating": 8.5,
+      "description": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
+      "kind": "Geheimtipp",
+      "tmdb_id": 155
+    },
+    {
       "id": "tmdb-1007757",
       "title": "Swapped – Getauscht",
       "year": 2026,
@@ -139,20 +141,6 @@
       "description": "Ein winziger Waldbewohner und ein majestätischer Vogel tauschen plötzlich die Körper und müssen gemeinsam das wildeste Abenteuer ihres Lebens überstehen.",
       "kind": "Geheimtipp",
       "tmdb_id": 1007757
-    },
-    {
-      "id": "tmdb-497",
-      "title": "The Green Mile",
-      "year": 1999,
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Krimi"
-      ],
-      "rating": 8.5,
-      "description": "Paul Edgecomb und seine Kollegen sind Wärter im Todestrakt eines Gefängnisses in den 30ern. Paul versieht seinen Job zwar immer noch mit der größtmöglichen Menschlichkeit, doch er wird zunehmend zynischer, da er ständig Menschen sterben sieht. Außerdem ist er krank. Da kommt ein neuer Delinquent in den Trakt: John Coffey, ein farbiger Riese von friedlichster Bauart, der im Dunkeln Angst hat. Wie sich herausstellt, hat Coffey heilende Fähigkeiten, die auch Paul kennenlernt. Zunehmend gerät er in Zweifel, ob dieser Gigant sterben soll, vor allem da er die Morde, wegen der er verurteilt ist, nicht begangen zu haben scheint. Doch der Stuhl wartet und Coffeys Gabe droht für immer zu verschwinden ...",
-      "kind": "Geheimtipp",
-      "tmdb_id": 497
     },
     {
       "id": "tmdb-122",
@@ -169,31 +157,31 @@
       "tmdb_id": 122
     },
     {
-      "id": "tmdb-687163",
-      "title": "Der Astronaut – Project Hail Mary",
-      "year": 2026,
+      "id": "tmdb-497",
+      "title": "The Green Mile",
+      "year": 1999,
       "genres": [
-        "Sci-Fi",
-        "Abenteuer"
-      ],
-      "rating": 8.6,
-      "description": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
-      "kind": "Blockbuster / Trend",
-      "tmdb_id": 687163
-    },
-    {
-      "id": "tmdb-155",
-      "title": "The Dark Knight",
-      "year": 2008,
-      "genres": [
-        "Action",
-        "Thriller",
+        "Fantasy",
+        "Drama",
         "Krimi"
       ],
       "rating": 8.5,
-      "description": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
+      "description": "Paul Edgecomb und seine Kollegen sind Wärter im Todestrakt eines Gefängnisses in den 30ern. Paul versieht seinen Job zwar immer noch mit der größtmöglichen Menschlichkeit, doch er wird zunehmend zynischer, da er ständig Menschen sterben sieht. Außerdem ist er krank. Da kommt ein neuer Delinquent in den Trakt: John Coffey, ein farbiger Riese von friedlichster Bauart, der im Dunkeln Angst hat. Wie sich herausstellt, hat Coffey heilende Fähigkeiten, die auch Paul kennenlernt. Zunehmend gerät er in Zweifel, ob dieser Gigant sterben soll, vor allem da er die Morde, wegen der er verurteilt ist, nicht begangen zu haben scheint. Doch der Stuhl wartet und Coffeys Gabe droht für immer zu verschwinden ...",
+      "kind": "Geheimtipp",
+      "tmdb_id": 497
+    },
+    {
+      "id": "tmdb-1263337",
+      "title": "Eiserne Wildnis – Heart of the Beast",
+      "year": 2026,
+      "genres": [
+        "Abenteuer",
+        "Thriller"
+      ],
+      "rating": 7.6,
+      "description": "Ein ehemaliger Soldat der Army Special Forces und sein pensionierter Kampfhund kämpfen ums Überleben, nachdem sie tief in der gnadenlosen Wildnis Alaskas einen verheerenden Flugzeugabsturz erlitten haben. Das Duo muss sich durch das raue Gelände kämpfen, um in die Zivilisation zurückzukehren, während es gegen die Elemente und seine eigenen inneren Dämonen ankämpft.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 155
+      "tmdb_id": 1263337
     },
     {
       "id": "tmdb-1423191",
@@ -219,36 +207,22 @@
         "Fantasy"
       ],
       "rating": 8.0,
-      "description": "Folgt Odysseus, dem legendären griechischen König von Ithaka, auf seiner langen und gefährlichen Heimreise nach dem Trojanischen Krieg und schildert seine Begegnungen mit mythischen Wesen wie dem Zyklopen Polyphem, den Sirenen und der Hexengöttin Circe, während er versucht, wieder mit seiner Frau Penelope zusammenzukommen.",
+      "description": "Nach dem epischen Sieg im Trojanischen Krieg tritt König Odysseus von Ithaka die lange Heimreise zu seiner Familie an. Mit seinen treuen Soldaten segelt er über das tückische Mittelmeer, wo wilde Stürme und göttlicher Zorn auf die Gefährten warten. Unterwegs muss sich die Mannschaft tödlichen Fallen, gewaltigen Naturgewalten und unbarmherzigen Fabelwesen stellen. Nur mit List und Ausdauer kämpft der Herrscher um das Überleben seiner Männer und die Rückkehr nach Hause.",
       "kind": "Blockbuster / Trend",
       "tmdb_id": 1368337
     },
     {
-      "id": "tmdb-1263337",
-      "title": "Eiserne Wildnis – Heart of the Beast",
-      "year": 2026,
-      "genres": [
-        "Abenteuer",
-        "Thriller"
-      ],
-      "rating": 7.3,
-      "description": "Ein ehemaliger Soldat der Army Special Forces und sein pensionierter Kampfhund kämpfen ums Überleben, nachdem sie tief in der gnadenlosen Wildnis Alaskas einen verheerenden Flugzeugabsturz erlitten haben. Das Duo muss sich durch das raue Gelände kämpfen, um in die Zivilisation zurückzukehren, während es gegen die Elemente und seine eigenen inneren Dämonen ankämpft.",
-      "kind": "Blockbuster / Trend",
-      "tmdb_id": 1263337
-    },
-    {
-      "id": "tmdb-1058424",
-      "title": "Hope",
+      "id": "tmdb-687163",
+      "title": "Der Astronaut – Project Hail Mary",
       "year": 2026,
       "genres": [
         "Sci-Fi",
-        "Mystery",
-        "Action"
+        "Abenteuer"
       ],
-      "rating": 6.7,
-      "description": "Nachdem sämtliche Verstärkungskräfte abgezogen wurden, um Waldbrände einzudämmen, und die Kommunikation vollständig zusammengebrochen ist, kämpfen der Leiter des Polizeipostens von Hope, Bum-seok, und die Polizistin Sung-ae darum, ein Dorf voller älterer Menschen zu schützen. Währenddessen brechen Sung-ki und weitere Menschen aus dem Dorf in die umliegenden Berge auf, um eine mysteriöse Bestie aufzuspüren – doch schon bald werden sie selbst zur Beute. Was aus Unwissenheit beginnt, setzt eine Katastrophe in Gang, die sich durch menschliche Konflikte zu einer Tragödie kosmischen Ausmaßes entwickelt.",
+      "rating": 8.6,
+      "description": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 1058424
+      "tmdb_id": 687163
     },
     {
       "id": "tmdb-969681",
@@ -265,19 +239,43 @@
       "tmdb_id": 969681
     },
     {
-      "id": "tmdb-354912",
-      "title": "Coco - Lebendiger als das Leben!",
-      "year": 2017,
+      "id": "tmdb-1058424",
+      "title": "Hope",
+      "year": 2026,
       "genres": [
-        "Familie",
-        "Animation",
-        "Musik",
-        "Abenteuer"
+        "Sci-Fi",
+        "Mystery",
+        "Action"
       ],
-      "rating": 8.2,
-      "description": "Miguel ist zwölf Jahre alt und ein großer Fan von Musik – aber leider hasst seine Schusterfamilie alles, was mit Tönen und Instrumenten zu tun hat. Miguels Ururgroßvater verließ damals seine Frau und Tochter, um Musiker zu werden, seitdem fühlen sich die Riveras durch Musik verflucht. Doch Familie hin oder her – Miguel will seinem Idol, dem Sänger Ernesto de la Cruz, trotzdem nacheifern. Aus Versehen kommt er dabei ins Reich der Toten und betritt dadurch einen wunderschönen Ort, an dem er die Seelen seiner toten Verwandten trifft. Miguels Ururgroßmutter Imelda ist darunter, und das nette Schwindler-Skelett Hector. Zusammen suchen Skelett und Junge im Totenreich nach de la Cruz, wobei allerdings die Zeit drängt: Zu lange darf Miguel nicht in der Unterwelt bleiben…",
+      "rating": 6.8,
+      "description": "Nachdem sämtliche Verstärkungskräfte abgezogen wurden, um Waldbrände einzudämmen, und die Kommunikation vollständig zusammengebrochen ist, kämpfen der Leiter des Polizeipostens von Hope, Bum-seok, und die Polizistin Sung-ae darum, ein Dorf voller älterer Menschen zu schützen. Währenddessen brechen Sung-ki und weitere Menschen aus dem Dorf in die umliegenden Berge auf, um eine mysteriöse Bestie aufzuspüren – doch schon bald werden sie selbst zur Beute. Was aus Unwissenheit beginnt, setzt eine Katastrophe in Gang, die sich durch menschliche Konflikte zu einer Tragödie kosmischen Ausmaßes entwickelt.",
       "kind": "Blockbuster / Trend",
-      "tmdb_id": 354912
+      "tmdb_id": 1058424
+    },
+    {
+      "id": "tmdb-1101412",
+      "title": "Fall 2: Deadpoint",
+      "year": 2026,
+      "genres": [
+        "Thriller"
+      ],
+      "rating": 7.2,
+      "description": "Während eines gefährlichen Aufstiegs am thailändischen Mount Kwan sitzen zwei Kletterer in schwindelerregender Höhe fest; dort machen die enorme Tiefe, die völlige Ausgesetztheit und die schier aussichtslosen Umstände jeden Augenblick zu einem Kampf ums Überleben.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1101412
+    },
+    {
+      "id": "tmdb-1283515",
+      "title": "Verity – Dunkle Geheimnisse",
+      "year": 2026,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 7.0,
+      "description": "Die erfolglose Schriftstellerin Lowen Ashleigh zieht auf das abgelegene Anwesen der Crawfords, um dort als Ghostwriterin für Verity Crawford zu arbeiten. Nachdem Lowen auf scheinbar erschreckende autobiografische Aufzeichnungen von Verity stößt, ringt sie mit den verstörenden und verstörenden Geständnissen über Veritys Ehemann Jeremy und findet es schwer, Fiktion von Realität, Manipulation von Anziehung und Gelegenheit von Besessenheit zu unterscheiden.",
+      "kind": "Blockbuster / Trend",
+      "tmdb_id": 1283515
     }
   ]
 }
